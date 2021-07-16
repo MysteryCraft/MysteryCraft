@@ -2,4 +2,4 @@
 <br>
 <h3>En este repositorio podrás encontrar información del servidor, plugins y enlaces interesantes
   
-<img src="https://imgur.com/undefined">
+<img src="github" claass="img">
